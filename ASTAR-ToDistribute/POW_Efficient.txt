@@ -1,0 +1,19 @@
+Seed 1
+AStarExp_912260569_999706363
+PathCost, 416.0625, Uncovered, 54095, TimeTaken, 332
+
+Seed 2
+AStarExp_912260569_999706363
+PathCost, 404.34375, Uncovered, 51112, TimeTaken, 356
+
+Seed 3
+AStarExp_912260569_999706363
+PathCost, 396.15625, Uncovered, 53353, TimeTaken, 335
+
+Seed 4
+AStarExp_912260569_999706363
+PathCost, 419.453125, Uncovered, 47254, TimeTaken, 298
+
+Seed 5
+AStarExp_912260569_999706363
+PathCost, 378.875, Uncovered, 49502, TimeTaken, 352
