@@ -10,3 +10,5 @@ PathCost, 505.0, Uncovered, 1147606, TimeTaken, 5202
 Our Algorithm: AStarExp
 PathCost, 505.0, Uncovered, 89278, TimeTaken, 551
 
+![alt text](https://github.com/sdzharkov/Artificial-intelligence-Projects/blob/master/ASTAR-ToDistribute/Dijkstra.png)
+![alt text](https://github.com/sdzharkov/Artificial-intelligence-Projects/blob/master/ASTAR-ToDistribute/Astar.png)
