@@ -21,9 +21,7 @@ A connect four bot built with with the min-max algorithm and alpha-beta pruning.
 
 To Run: indicate the player by using the command -p1 of -p2. If a player isn't specified, the user will be the default player. -H and -W signify height and width parameters of the function. 
 
-'''bash
+'''sh
 javac *.java
-
 java Main -p2 alphabeta_NightsWatch
-
 '''
