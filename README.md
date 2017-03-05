@@ -14,3 +14,16 @@ PathCost, 505.0, Uncovered, 89278, TimeTaken, 551
 
 ![alt text](https://github.com/sdzharkov/Artificial-intelligence-Projects/blob/master/ASTAR-ToDistribute/Dijkstra.png)
 ![alt text](https://github.com/sdzharkov/Artificial-intelligence-Projects/blob/master/ASTAR-ToDistribute/Astar.png)
+
+## Project 2: Connect 4 Bot
+
+A connect four bot built with with the min-max algorithm and alpha-beta pruning. The algorithm searches deeper into the game tree until finding a consistent win or loss outcome. The algorithm takes into consideration the placement of 1, 2, and three in a rows, while also paying attention to open spots in the future. 
+
+To Run: indicate the player by using the command -p1 of -p2. If a player isn't specified, the user will be the default player. -H and -W signify height and width parameters of the function. 
+
+'''bash
+javac *.java
+
+java Main -p2 alphabeta_NightsWatch
+
+'''
