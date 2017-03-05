@@ -12,8 +12,8 @@ PathCost, 505.0, Uncovered, 1147606, TimeTaken, 5202
 Our Algorithm: AStarExp
 PathCost, 505.0, Uncovered, 89278, TimeTaken, 551
 
-![alt text](https://github.com/sdzharkov/Artificial-intelligence-Projects/blob/master/ASTAR-ToDistribute/Dijkstra.png)
-![alt text](https://github.com/sdzharkov/Artificial-intelligence-Projects/blob/master/ASTAR-ToDistribute/Astar.png)
+<img src="https://github.com/sdzharkov/Artificial-intelligence-Projects/blob/master/ASTAR-ToDistribute/Dijkstra.png" width="400px" height="400px">
+<img src="https://github.com/sdzharkov/Artificial-intelligence-Projects/blob/master/ASTAR-ToDistribute/Astar.png" width="400px" height="400px">
 
 ## Project 2: Connect 4 Bot
 
@@ -21,7 +21,7 @@ A connect four bot built with with the min-max algorithm and alpha-beta pruning.
 
 To Run: indicate the player by using the command -p1 of -p2. If a player isn't specified, the user will be the default player. -H and -W signify height and width parameters of the function. 
 
-'''sh
+```sh
 javac *.java
 java Main -p2 alphabeta_NightsWatch
-'''
+```
