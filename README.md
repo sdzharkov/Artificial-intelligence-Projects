@@ -12,8 +12,8 @@ PathCost, 505.0, Uncovered, 1147606, TimeTaken, 5202
 Our Algorithm: AStarExp
 PathCost, 505.0, Uncovered, 89278, TimeTaken, 551
 
-<img src="https://github.com/sdzharkov/Artificial-intelligence-Projects/blob/master/ASTAR-ToDistribute/Dijkstra.png" width="400px" height="400px">
-<img src="https://github.com/sdzharkov/Artificial-intelligence-Projects/blob/master/ASTAR-ToDistribute/Astar.png" width="400px" height="400px">
+<img src="https://github.com/sdzharkov/Artificial-intelligence-Projects/blob/master/ASTAR-ToDistribute/Dijkstra.png" width="400px" height="400px"> <img src="https://github.com/sdzharkov/Artificial-intelligence-Projects/blob/master/ASTAR-ToDistribute/Astar.png" width="400px" height="400px">
+
 
 ## Project 2: Connect 4 Bot
 
@@ -24,4 +24,14 @@ To Run: indicate the player by using the command -p1 of -p2. If a player isn't s
 ```sh
 javac *.java
 java Main -p2 alphabeta_NightsWatch
+```
+
+## Project 3: Neural Network
+
+A neural network built to detect gender in a series of images. The program creates a simple forward feeding network with backpropogation. We create 15360 input nodes, 5 hidden nodes, and one output node to process the male and female directories. After 10 epocs of training we were able to predict the test training set with 100% accuracy. 
+
+To Run: The program takes in three directories - Male, Female, and test. 
+```sh
+javac main.java
+java main -train ./Male/ ./Female/ -test ./test/
 ```
